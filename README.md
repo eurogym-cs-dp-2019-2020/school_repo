@@ -1,1 +1,1 @@
-This is an example of how merges are done
+This is an example of how merges are made
